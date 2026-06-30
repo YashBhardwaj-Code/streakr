@@ -1,0 +1,267 @@
+{
+    "total": 169,
+    "count": 10,
+    "data": [
+        {
+            "id": "0001",
+            "name": "3/4 Sit-up",
+            "bodyPart": "Waist",
+            "equipment": "Body Weight",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors",
+                "Lower Back"
+            ],
+            "instructions": [
+                "Lie flat on your back with your knees bent and feet flat on the ground.",
+                "Place your hands behind your head with your elbows pointing outwards.",
+                "Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle.",
+                "Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+                "Repeat for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0001.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 3.5,
+            "caloriesPerMinute": 4.3,
+            "description": "3/4 Sit-up is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using bodyweight, it falls under the strength category. Secondary muscles engaged include Hip Flexors and Lower Back."
+        },
+        {
+            "id": "0002",
+            "name": "Side Bend",
+            "bodyPart": "Waist",
+            "equipment": "Body Weight",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Obliques"
+            ],
+            "instructions": [
+                "Stand with your feet shoulder-width apart and your arms extended straight down by your sides.",
+                "Keeping your back straight and your core engaged, slowly bend your torso to one side, lowering your hand towards your knee.",
+                "Pause for a moment at the bottom, then slowly return to the starting position.",
+                "Repeat on the other side.",
+                "Continue alternating sides for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0002.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 3.5,
+            "caloriesPerMinute": 4.3,
+            "description": "Side Bend is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using bodyweight, it falls under the strength category. Secondary muscles engaged include Obliques."
+        },
+        {
+            "id": "0003",
+            "name": "Air Bike",
+            "bodyPart": "Waist",
+            "equipment": "Body Weight",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors"
+            ],
+            "instructions": [
+                "Lie flat on your back with your hands placed behind your head.",
+                "Lift your legs off the ground and bend your knees at a 90-degree angle.",
+                "Bring your right elbow towards your left knee while simultaneously straightening your right leg.",
+                "Return to the starting position and repeat the movement on the opposite side, bringing your left elbow towards your right knee while straightening your left leg.",
+                "Continue alternating sides in a pedaling motion for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0003.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 3.5,
+            "caloriesPerMinute": 4.3,
+            "description": "Air Bike is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using bodyweight, it falls under the strength category. Secondary muscles engaged include Hip Flexors."
+        },
+        {
+            "id": "0006",
+            "name": "Alternate Heel Touchers",
+            "bodyPart": "Waist",
+            "equipment": "Body Weight",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Obliques"
+            ],
+            "instructions": [
+                "Lie flat on your back with your knees bent and feet flat on the ground.",
+                "Extend your arms straight out to the sides, parallel to the ground.",
+                "Engaging your abs, lift your shoulders off the ground and reach your right hand towards your right heel.",
+                "Return to the starting position and repeat on the left side, reaching your left hand towards your left heel.",
+                "Continue alternating sides for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0006.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 3.5,
+            "caloriesPerMinute": 4.3,
+            "description": "Alternate Heel Touchers is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using bodyweight, it falls under the strength category. Secondary muscles engaged include Obliques."
+        },
+        {
+            "id": "0010",
+            "name": "Assisted Hanging Knee Raise With Throw Down",
+            "bodyPart": "Waist",
+            "equipment": "Assisted",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors",
+                "Lower Back"
+            ],
+            "instructions": [
+                "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+                "Engage your core and lift your knees towards your chest, keeping your legs together.",
+                "Once your knees are at chest level, explosively throw your legs down towards the ground, extending them fully.",
+                "Allow your legs to swing back up and repeat the movement for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0010.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "pull",
+            "met": 5,
+            "caloriesPerMinute": 6.1,
+            "description": "Assisted Hanging Knee Raise With Throw Down is a beginner multi-joint compound pulling exercise targeting the Abs in the Waist region. Performed using assisted, it falls under the strength category. Secondary muscles engaged include Hip Flexors and Lower Back."
+        },
+        {
+            "id": "0011",
+            "name": "Assisted Hanging Knee Raise",
+            "bodyPart": "Waist",
+            "equipment": "Assisted",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors"
+            ],
+            "instructions": [
+                "Hang from a pull-up bar with your arms fully extended and your palms facing away from you.",
+                "Engage your core muscles and lift your knees towards your chest, bending at the hips and knees.",
+                "Pause for a moment at the top of the movement, squeezing your abs.",
+                "Slowly lower your legs back down to the starting position.",
+                "Repeat for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0011.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 5,
+            "caloriesPerMinute": 6.1,
+            "description": "Assisted Hanging Knee Raise is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using assisted, it falls under the strength category. Secondary muscles engaged include Hip Flexors."
+        },
+        {
+            "id": "0012",
+            "name": "Assisted Lying Leg Raise With Lateral Throw Down",
+            "bodyPart": "Waist",
+            "equipment": "Assisted",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors",
+                "Obliques"
+            ],
+            "instructions": [
+                "Lie flat on your back with your legs extended and your arms by your sides.",
+                "Place your hands under your glutes for support.",
+                "Engage your abs and lift your legs off the ground, keeping them straight.",
+                "While keeping your legs together, lower them to one side until they are a few inches above the ground.",
+                "Pause for a moment, then lift your legs back to the starting position.",
+                "Repeat the movement to the other side.",
+                "Continue alternating sides for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0012.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "pull",
+            "met": 5,
+            "caloriesPerMinute": 6.1,
+            "description": "Assisted Lying Leg Raise With Lateral Throw Down is a beginner multi-joint compound pulling exercise targeting the Abs in the Waist region. Performed using assisted, it falls under the strength category. Secondary muscles engaged include Hip Flexors and Obliques."
+        },
+        {
+            "id": "0013",
+            "name": "Assisted Lying Leg Raise With Throw Down",
+            "bodyPart": "Waist",
+            "equipment": "Assisted",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Hip Flexors",
+                "Quadriceps"
+            ],
+            "instructions": [
+                "Lie flat on your back with your legs extended and your arms by your sides.",
+                "Place your hands under your glutes for support.",
+                "Engage your core and lift your legs off the ground, keeping them straight.",
+                "Raise your legs until they are perpendicular to the ground.",
+                "Lower your legs back down to the starting position.",
+                "Simultaneously, throw your legs down towards the ground, keeping them straight.",
+                "Raise your legs back up to the starting position.",
+                "Repeat for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0013.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "pull",
+            "met": 5,
+            "caloriesPerMinute": 6.1,
+            "description": "Assisted Lying Leg Raise With Throw Down is a beginner multi-joint compound pulling exercise targeting the Abs in the Waist region. Performed using assisted, it falls under the strength category. Secondary muscles engaged include Hip Flexors and Quadriceps."
+        },
+        {
+            "id": "0014",
+            "name": "Assisted Motion Russian Twist",
+            "bodyPart": "Waist",
+            "equipment": "Medicine Ball",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Obliques",
+                "Lower Back"
+            ],
+            "instructions": [
+                "Sit on the ground with your knees bent and feet flat on the floor.",
+                "Hold the medicine ball with both hands in front of your chest.",
+                "Lean back slightly, engaging your abs and keeping your back straight.",
+                "Slowly twist your torso to the right, bringing the medicine ball towards the right side of your body.",
+                "Pause for a moment, then twist your torso to the left, bringing the medicine ball towards the left side of your body.",
+                "Continue alternating sides for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0014.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 5,
+            "caloriesPerMinute": 6.1,
+            "description": "Assisted Motion Russian Twist is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using medicine ball, it falls under the strength category. Secondary muscles engaged include Obliques and Lower Back."
+        },
+        {
+            "id": "0071",
+            "name": "Barbell Press Sit-up",
+            "bodyPart": "Waist",
+            "equipment": "Barbell",
+            "target": "Abs",
+            "secondaryMuscles": [
+                "Shoulders",
+                "Chest"
+            ],
+            "instructions": [
+                "Lie flat on your back on a mat with your knees bent and feet flat on the ground.",
+                "Hold the barbell with an overhand grip, resting it on your chest.",
+                "Engaging your abs, slowly lift your upper body off the ground, curling forward until your torso is at a 45-degree angle.",
+                "Pause for a moment at the top, then slowly lower your upper body back down to the starting position.",
+                "Repeat for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0071.gif",
+            "category": "strength",
+            "difficulty": "beginner",
+            "mechanic": "isolation",
+            "force": "push",
+            "met": 6,
+            "caloriesPerMinute": 7.3,
+            "description": "Barbell Press Sit-up is a beginner single-joint isolation pushing exercise targeting the Abs in the Waist region. Performed using barbell, it falls under the strength category. Secondary muscles engaged include Shoulders and Chest."
+        }
+    ]
+}

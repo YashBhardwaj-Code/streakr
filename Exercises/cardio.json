@@ -1,0 +1,302 @@
+{
+    "total": 29,
+    "count": 10,
+    "data": [
+        {
+            "id": "0501",
+            "name": "Jack Burpee",
+            "bodyPart": "Cardio",
+            "equipment": "Body Weight",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves",
+                "Shoulders",
+                "Triceps",
+                "Core"
+            ],
+            "instructions": [
+                "Start in a standing position with your feet shoulder-width apart.",
+                "Lower your body into a squat position, placing your hands on the ground in front of you.",
+                "Kick your feet back, landing in a push-up position.",
+                "Perform a push-up, lowering your chest to the ground and then pushing back up.",
+                "Jump your feet forward, landing in a squat position.",
+                "Jump up explosively, reaching your arms overhead.",
+                "Land softly and immediately lower back into the squat position to begin the next repetition."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0501.gif",
+            "category": "cardio",
+            "difficulty": "intermediate",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Jack Burpee is a intermediate multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using bodyweight, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "0630",
+            "name": "Mountain Climber",
+            "bodyPart": "Cardio",
+            "equipment": "Body Weight",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Core",
+                "Shoulders",
+                "Triceps"
+            ],
+            "instructions": [
+                "Start in a high plank position with your hands directly under your shoulders and your body in a straight line.",
+                "Engage your core and bring your right knee towards your chest, then quickly switch and bring your left knee towards your chest.",
+                "Continue alternating legs in a running motion, keeping your hips low and your core engaged.",
+                "Maintain a steady pace and breathe evenly throughout the exercise.",
+                "Repeat for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0630.gif",
+            "category": "cardio",
+            "difficulty": "intermediate",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Mountain Climber is a intermediate multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using bodyweight, it falls under the cardio category. Secondary muscles engaged include Core and Shoulders."
+        },
+        {
+            "id": "0684",
+            "name": "Run (equipment)",
+            "bodyPart": "Cardio",
+            "equipment": "Body Weight",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves"
+            ],
+            "instructions": [
+                "Start by standing upright with your feet hip-width apart.",
+                "Engage your core and keep your upper body relaxed.",
+                "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+                "Maintain a steady pace and continue jogging for the desired duration or distance.",
+                "Remember to breathe deeply and maintain good posture throughout the exercise."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0684.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Run (equipment) is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using bodyweight, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "0685",
+            "name": "Run",
+            "bodyPart": "Cardio",
+            "equipment": "Body Weight",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves"
+            ],
+            "instructions": [
+                "Start by standing upright with your feet hip-width apart.",
+                "Engage your core and keep your upper body relaxed.",
+                "Begin jogging in place, lifting your knees up towards your chest and landing softly on the balls of your feet.",
+                "Maintain a steady pace and continue jogging for the desired duration or distance.",
+                "Remember to breathe deeply and maintain good posture throughout the exercise."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0685.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Run is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using bodyweight, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "0798",
+            "name": "Stationary Bike Walk",
+            "bodyPart": "Cardio",
+            "equipment": "Leverage Machine",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves"
+            ],
+            "instructions": [
+                "Adjust the seat height and position on the stationary bike to ensure proper alignment.",
+                "Place your feet on the pedals and secure them with the straps if available.",
+                "Start pedaling at a comfortable pace, keeping your back straight and core engaged.",
+                "Maintain a steady rhythm and increase the resistance level if desired.",
+                "Continue pedaling for the desired duration of your cardio workout.",
+                "Cool down by gradually reducing your pace and resistance level.",
+                "Stretch your leg muscles after the workout to prevent tightness and promote recovery."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/0798.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Stationary Bike Walk is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using leverage machine, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "1160",
+            "name": "Burpee",
+            "bodyPart": "Cardio",
+            "equipment": "Body Weight",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves",
+                "Shoulders",
+                "Chest"
+            ],
+            "instructions": [
+                "Start in a standing position with your feet shoulder-width apart.",
+                "Lower your body into a squat position by bending your knees and placing your hands on the floor in front of you.",
+                "Kick your feet back into a push-up position.",
+                "Perform a push-up, keeping your body in a straight line.",
+                "Jump your feet back into the squat position.",
+                "Jump up explosively, reaching your arms overhead.",
+                "Land softly and immediately lower back into a squat position to begin the next repetition."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/1160.gif",
+            "category": "cardio",
+            "difficulty": "intermediate",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Burpee is a intermediate multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using bodyweight, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "1201",
+            "name": "Dumbbell Burpee",
+            "bodyPart": "Cardio",
+            "equipment": "Dumbbell",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves",
+                "Shoulders",
+                "Triceps",
+                "Core"
+            ],
+            "instructions": [
+                "Start in a standing position with your feet shoulder-width apart and a dumbbell in each hand.",
+                "Lower your body into a squat position, placing the dumbbells on the ground in front of you.",
+                "Kick your feet back into a push-up position, keeping your body in a straight line.",
+                "Perform a push-up, bending your elbows and lowering your chest towards the ground.",
+                "Jump your feet back towards your hands, landing in a squat position.",
+                "Stand up explosively, lifting the dumbbells off the ground and bringing them to your shoulders.",
+                "Press the dumbbells overhead, fully extending your arms.",
+                "Lower the dumbbells back to your shoulders and repeat the entire sequence for the desired number of repetitions."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/1201.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Dumbbell Burpee is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using dumbbell, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "2138",
+            "name": "Stationary Bike Run V. 3",
+            "bodyPart": "Cardio",
+            "equipment": "Stationary Bike",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Calves"
+            ],
+            "instructions": [
+                "Adjust the seat height and position to ensure proper alignment.",
+                "Place your feet on the pedals and secure them with the straps if available.",
+                "Start pedaling at a comfortable pace.",
+                "Maintain a steady rhythm and increase the resistance as desired.",
+                "Engage your core muscles to maintain stability and proper posture.",
+                "Continue pedaling for the desired duration of your workout.",
+                "Gradually decrease the resistance and slow down before coming to a complete stop.",
+                "Stretch your legs and cool down after the workout."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/2138.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Stationary Bike Run V. 3 is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using stationary bike, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "2141",
+            "name": "Walk Elliptical Cross Trainer",
+            "bodyPart": "Cardio",
+            "equipment": "Elliptical Machine",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Glutes",
+                "Calves"
+            ],
+            "instructions": [
+                "Adjust the resistance level and incline of the elliptical machine to your desired settings.",
+                "Step onto the pedals of the machine and grip the handles lightly.",
+                "Begin by pushing down with your feet and pulling the handles towards your body.",
+                "Continue this motion, alternating between pushing and pulling, to simulate a walking or running motion.",
+                "Maintain a steady pace and keep your core engaged throughout the exercise.",
+                "Continue for the desired duration of your cardio workout.",
+                "Gradually decrease the intensity and speed of the machine before stepping off."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/2141.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Walk Elliptical Cross Trainer is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using elliptical machine, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        },
+        {
+            "id": "2311",
+            "name": "Walking On Stepmill",
+            "bodyPart": "Cardio",
+            "equipment": "Stepmill Machine",
+            "target": "Cardiovascular System",
+            "secondaryMuscles": [
+                "Quadriceps",
+                "Hamstrings",
+                "Glutes",
+                "Calves"
+            ],
+            "instructions": [
+                "Adjust the stepmill machine to a comfortable level.",
+                "Step onto the machine and place your hands on the handrails for support.",
+                "Start walking by placing one foot on a step and then the other, alternating between legs.",
+                "Maintain an upright posture and engage your core muscles.",
+                "Continue walking for the desired duration or distance.",
+                "Gradually increase the intensity or speed as you become more comfortable with the exercise.",
+                "Remember to cool down and stretch after completing the exercise."
+            ],
+            "gifUrl": "https://api.workoutxapp.com/v1/gifs/2311.gif",
+            "category": "cardio",
+            "difficulty": "beginner",
+            "mechanic": "compound",
+            "force": "push",
+            "met": 8,
+            "caloriesPerMinute": 9.8,
+            "description": "Walking On Stepmill is a beginner multi-joint compound pushing exercise targeting the Cardiovascular System in the Cardio region. Performed using stepmill machine, it falls under the cardio category. Secondary muscles engaged include Quadriceps and Hamstrings."
+        }
+    ]
+}
