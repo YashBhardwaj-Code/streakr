@@ -6,3 +6,6 @@ As Streakr prioritises a no friction experience, users may begin using streakr w
 
 # Features
 Streakr utilises an xp-based level system to keep you "hooked up" to fitness. Other features such as streakes keep users returning for more!
+
+# AI Usage
+No AI coding services were used in the development of this platform.
