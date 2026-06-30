@@ -1,0 +1,153 @@
+:root {
+  --pico-font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial';
+}
+
+p, h1, button {
+  margin: 0;
+}
+
+button {
+  border: none;
+}
+
+body {
+  padding: 10px 10px;
+  margin: 0;
+  background-color: #FCFAF9;
+  min-height: 100vh;
+}
+
+.bar-container {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+}
+
+.top-bar-container {
+  display: flex;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+
+.streak-counter, .coin-counter {
+  font-size: 36px;
+  font-weight: 600;
+  color: black;
+  line-height: 0.75;
+}
+
+.start-workout-btn {
+  font-weight: 700;
+  background-color: #F6AE2D;
+  color: #FCFAF9;
+  border: none;
+  border-radius: 36px;
+  font-size: 40px;
+  padding: 25px 20px;
+}
+
+.fitness-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 16px;
+}
+
+.level-container {
+  background-color: #36454F;
+  padding: 15px 20px;
+  border-radius: 36px;
+  display: flex;
+  flex-direction: column;
+}
+
+.level {
+  font-size: 36px;
+  font-weight: 650;
+}
+
+.level,
+.current-xp,
+.required-xp {
+  color: #FCFAF9;
+}
+
+.overlay-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(128, 128, 128, 0.7);
+  display: none;
+}
+
+.overlay {
+  background-color: #FCFAF9;
+  max-width: 300px;
+  padding: 20px 25px;
+  border-radius: 36px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 7.5px;
+}
+
+.confirm-text {
+  color: black;
+  text-align: center;
+}
+
+.confirm-btn,
+.return-btn {
+  color: #FCFAF9;
+  font-weight: 600;
+  background-color: #F6AE2D;
+  border-radius: 36px;
+  font-size: 25px;
+  padding: 8px 48px;
+}
+
+.return-btn {
+  font-size: 15px;
+  background-color: #FF4E37;
+  border-radius: 20;
+}
+
+.xp-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.total-bar {
+  background-color: #D9D9D9;
+  width: 250px;
+  height: 30px;
+  border-radius: 25px;
+}
+
+.finished-bar {
+  height: 30px;
+  background-color: #63C484;
+  border-radius: 25px;
+}
+
+.coming-soon-container {
+  margin: 30px auto;
+  background-color: rgb(112, 112, 112);
+  height: 50vh;
+  width: 300px;
+  border-radius: 25px;
+  box-sizing: border-box;
+  padding: 20px;
+}
+
+.coming-soon-text {
+  color: white;
+  font-size: 50px;
+  text-align: center;
+}

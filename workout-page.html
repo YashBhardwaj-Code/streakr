@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Streakr - Workout</title>
+
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css">
+
+  <link rel="stylesheet" href="workout-page.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="overlay-container" id="quitPopup">
+    <div class="overlay">
+      <p class="confirm-text">Do you want to <b>end</b> your workout?</p>
+      <div class="end-workout-container">
+        <button class="yes-btn">Yes</button>
+        <button class="no-btn">No</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="overlay-container" id="finishWorkout">
+    <div class="overlay">
+      <p class="confirm-text"><b>Congratulations!</b> You just finished your daily workout.</p>
+      <div class="claim-reward-container">
+        <span class="xp-gained">+50xp</span>
+        <button class="claim-reward-btn">Claim Reward</button>
+      </div>
+    </div>
+  </div>
+
+  <p class="streak-counter">streak</p>
+  
+  <div class="exercise-container">
+    <h1 class="exercise-name">Exercise Name</h1>
+    <div class="instructions-container">
+    </div>
+  </div>
+
+  <div class="btns-container">
+    <button class="continue-btn">Continue</button>
+    <button class="end-btn">End Workout</button>
+  </div>
+
+  <script src="workoutPage.js"></script>
+  <script src="storage.js"></script>
+</body>
+</html>

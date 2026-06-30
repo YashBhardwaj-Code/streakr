@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en" data-theme="light">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Streakr</title>
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@picocss/pico@2/css/pico.amber.min.css">
+
+  <link rel="stylesheet" href="homepage.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap" rel="stylesheet">
+</head>
+<body>
+  <div class="overlay-container">
+    <div class="overlay">
+      <p class="confirm-text" style="font-weight: 650; font-size: 30px;">What would you like to train?</p>
+      <select class="select-workout">
+        <option selected disabled>Choose body part...</option>
+        <option>Back</option>
+        <option>Chest</option>
+        <option>Cardio</option>
+        <option>Lower Arms</option>
+        <option>Lower Legs</option>
+        <option>Shoulders</option>
+        <option>Upper Arms</option>
+        <option>Upper Legs</option>
+        <option>Waist</option>
+      </select>
+      <button class="confirm-btn">Confirm</button>
+      <button class="return-btn">Return</button>
+    </div>
+  </div>
+
+    <div class="bar-container">
+      <div class="top-bar-container">
+        <p class="streak-counter">streak</p>
+      </div>
+
+      <div class="fitness-container">
+        <button class="start-workout-btn">Start Workout</button>
+        <div class="level-container">
+          <p class="level"></p>
+          <div class="level-status-container">
+            <div class="level-status-bar"></div>
+            <div class="total-bar">
+              <div class="finished-bar"></div>
+            </div>
+            <div class="xp-container">
+              <p class="current-xp"></p>
+              <p class="required-xp"></p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="coming-soon-container">
+      <h1 class="coming-soon-text">COMING SOON :)</h1>
+    </div>
+
+    <script src="homepage.js"></script>
+    <script src="storage.js"></script>
+</body>
+</html>

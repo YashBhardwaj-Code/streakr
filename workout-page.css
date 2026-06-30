@@ -1,0 +1,160 @@
+:root {
+  --pico-font-family: 'Inter', 'Helvetica', 'Roboto', 'Arial';
+}
+
+p, h1, button {
+  margin: 0;
+}
+
+button {
+  border: none;
+}
+
+body {
+  padding: 10px 10px;
+  margin: 0;
+  background-color: #FCFAF9;
+  min-height: 100vh;
+}
+
+.streak-counter {
+  font-size: 36px;
+  font-weight: 600;
+  color: black;
+  text-align: right;
+  width: 100%;
+  line-height: 0.75;
+}
+
+.exercise-name {
+  font-size: 48px;
+  text-align: center;
+  margin-top: 48px;
+}
+
+.instructions-container {
+  background-color: #D9D9D9;
+  padding: 15px 20px;
+  border-radius: 36px;
+  width: 350px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  max-height: 350px;
+  overflow-y: scroll;
+}
+
+.instructions-text {
+  font-size: 18px;
+  color: rgb(52, 52, 52);
+  font-weight: 500;
+  width: 100%;
+}
+
+.exercise-container {
+  display: flex;
+  flex-direction: column;
+  gap: 22.5px;
+  align-items: center;
+}
+
+.btns-container {
+  margin-top: 36px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+}
+
+.continue-btn,
+.end-btn {
+  color: #FCFAF9;
+  font-weight: 600;
+}
+
+.continue-btn {
+  background-color: #F6AE2D;
+  border-radius: 36px;
+  font-size: 30px;
+  padding: 8px 48px;
+}
+
+.end-btn {
+  font-size: 18px;
+  background-color: #FF4E37;
+  border-radius: 20px;
+}
+
+.overlay-container {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: rgba(128, 128, 128, 0.7);
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.overlay {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #FCFAF9;
+  padding: 20px 25px;
+  gap: 15px;
+  border-radius: 36px;
+  max-width: 300px;
+}
+
+.confirm-text {
+  font-size: 26px;
+  font-weight: 500;
+  text-align: center;
+}
+
+.end-workout-container {
+  display: flex;
+  gap: 48px;
+}
+
+.yes-btn,
+.no-btn {
+  font-size: 18px;
+  color: white;
+  font-weight: 550;
+  border: none;
+  padding: 10px 25px;
+}
+
+.yes-btn {
+  background-color: #FF4E37;
+}
+
+.no-btn {
+  background-color: #9F9F9F;
+}
+
+.xp-gained {
+  font-size: 18px;
+  font-weight: 450;
+}
+
+.claim-reward-btn {
+  color: white;
+  background-color: #0cc718;
+  border-radius: 10px;
+  font-weight: 550;
+  padding: 10px 30px;
+  font-size: 16px;
+}
+
+.claim-reward-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+}
